@@ -4,6 +4,7 @@ export PS1="\W >> "
 alias ..="cd .."
 alias source="source ~/.bashrc" 
 alias ebash="vim ~/repos/config/.bashrc; source"
+alias config="vim /Users/timothy/repos/config"
 alias repos="cd ~/repos"
 alias item="cd ~/item"
 alias itemd="cd ~/item-dev"
@@ -16,8 +17,6 @@ cl() {
   ls
 }
 
-#
-#
 # Enonic Development
 #
 #
