@@ -4,4 +4,4 @@
 
 [f.lux](https://justgetflux.com) - yellow light based on time of day
 
-fzf
+fzf -> brew info fzf 
